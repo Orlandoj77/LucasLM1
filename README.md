@@ -69,4 +69,4 @@ Estou utiliando o GitHub com o intuito de salvar meus códigos de maneira segura
 Obrigado e volte sempre! 😄
 </p>
 
-
+![Snake animation](https://github.com/LucasLM1/LucasLM1/blob/output/github-contribution-grid-snake.svg)
