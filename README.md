@@ -40,8 +40,8 @@ Estou utiliando o GitHub com o intuito de salvar meus códigos de maneira segura
 
 
 
-<p align="center">
- Quantidade de visitas no meu perfil desde: 16/06/2021 🕵️ <br></p>
+<p align="center<p align="center">
+ Quantidade de visitas em meu perfil desde: 20/07/2021 🕵️ <br></p>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/LucasLM1/count.svg" /></p>
 <p align="center">
