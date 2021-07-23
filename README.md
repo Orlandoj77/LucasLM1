@@ -1,4 +1,5 @@
-
+## Observação!
+### Read.me em construção😜
 
 <!--
 **LucasLM1/LucasLM1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,11 +37,19 @@ Estou utiliando o GitHub com o intuito de salvar meus códigos de maneira segura
 
 <a href="https://www.linkedin.com/in/lucas-souza-607776215/" alt= "LinkedIN" target= "_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-souza-607776215/">
-</a>        
+</a>    
 
 
 
-<p align="center<p align="center">
+### Tecnologias e frameworks que tenho conhecimento
+![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Github css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Github sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+    
+### Minhas informações aqui no GitHub:
+![Status](https://github-readme-stats.vercel.app/api?username=LucasLM1) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLM1&layout=compact)](https://github.com/murilofarias10/github-readme-stats)
+
+<p align="center">
  Quantidade de visitas em meu perfil desde: 20/07/2021 🕵️ <br></p>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/LucasLM1/count.svg" /></p>
