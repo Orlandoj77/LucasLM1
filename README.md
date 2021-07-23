@@ -1,5 +1,3 @@
-## Observação!
-### Read.me em construção😜
 
 <!--
 **LucasLM1/LucasLM1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,10 +25,9 @@ Estou utiliando o GitHub com o intuito de salvar meus códigos de maneira segura
 
 • 📍 São Paulo- SP
 
-
 ### Entre em contato comigo através das minhas redes sociais📲
-<a href="https://www.instagram.com/lucxs.lm" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lucxs.lm">
+<a href="https://www.instagram.com/lucxs.lm_" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lucxs.lm_">
 </a>
 
 <a href="https://www.linkedin.com/in/lucas-souza-607776215/" alt= "LinkedIN" target= "_blank">
@@ -56,7 +53,8 @@ Estou utiliando o GitHub com o intuito de salvar meus códigos de maneira segura
  ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red"/>
-    
+    <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
     
 ### Minhas informações aqui no GitHub:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLM1&theme=tokyonight&show_icons=true)
