@@ -37,3 +37,13 @@ Estou utiliando o GitHub com o intuito de salvar meus códigos de maneira segura
 <a href="https://www.linkedin.com/in/lucas-souza-607776215/" alt= "LinkedIN" target= "_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-souza-607776215/">
 </a>        
+
+
+
+<p align="center">
+ Quantidade de visitas no meu perfil desde: 16/06/2021 🕵️ <br></p>
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/LucasLM1/count.svg" /></p>
+<p align="center">
+Obrigado e volte sempre! 😄
+</p>
