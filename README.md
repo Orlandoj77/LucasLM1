@@ -37,3 +37,7 @@ Estou utiliando o GitHub com o intuito de salvar meus códigos de maneira segura
 <a href="https://www.linkedin.com/in/lucas-souza-607776215/" alt= "LinkedIN" target= "_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-souza-607776215/">
 </a>        
+
+teste cobrinha
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LucasLM1=anuraghazra&theme=react&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLM1&layout=compact)](https://github.com/LucasLM1/github-readme-stats)
