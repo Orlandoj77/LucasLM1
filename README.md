@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ### Olá,  sou o Lucas, seja bem-vinde 👋🏾
+Estou utilizando o GitHub com o intuito de salvar os códigos dos meus programas de maneira segura e também que possam estar ajudando novas pessoas no mundo da programação😁
 
-Estou utiliando o GitHub com o intuito de salvar meus códigos de maneira segura e também que possa ajudar novas pessoas no mundo da programação😁
 
 #### 🔰 Sempre buscando novas maneiras de me tornar uma pessoa melhor 🔰
 • 🎓 Desenvolvedor Fullstack Java Jr- Em formação 
@@ -47,7 +47,7 @@ Estou utiliando o GitHub com o intuito de salvar meus códigos de maneira segura
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
  <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
- 
+ <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
  
  ### Tecnologias, linguagens e frameworks que estou estudando👩‍💻
  ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -55,6 +55,8 @@ Estou utiliando o GitHub com o intuito de salvar meus códigos de maneira segura
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red"/>
     <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    
     
 ### Minhas informações aqui no GitHub:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLM1&theme=tokyonight&show_icons=true)
