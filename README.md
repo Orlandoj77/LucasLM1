@@ -61,13 +61,13 @@ Estou utilizando o GitHub com o intuito de salvar os códigos dos meus programas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLM1&theme=tokyonight&show_icons=true)
 
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLM1&theme=tokyonight&layout=compact)](https://github.com/LucasLM1/github-readme-stats)
- 
 <p align="center">
- Quantidade de visitas em meu perfil desde: 16/06/2021 <br></p>
+ Quantidade de visitas no meu perfil desde: 01/07/2021 🕵️ <br></p>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/LucasLM1/count.svg" /></p>
 <p align="center">
 Obrigado e volte sempre! 😄
 </p>
+
 
 ![Snake animation](https://github.com/LucasLM1/LucasLM1/blob/output/github-contribution-grid-snake.svg)
