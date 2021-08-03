@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá,  sou o Lucas, seja bem-vinde 👋🏾
+### Olá, me chamo Lucas👋🏾
+### Seja bem-vinde ao meu GitHub<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 Estou utilizando o GitHub com o intuito de salvar os códigos dos meus programas de maneira segura e também que possam estar ajudando novas pessoas no mundo da programação😁
 
 
