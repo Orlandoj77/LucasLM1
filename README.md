@@ -34,11 +34,15 @@ Estou utilizando o GitHub com o intuito de salvar os códigos dos meus programas
 
 <a href="https://www.linkedin.com/in/lucas-souza-607776215/" alt= "LinkedIN" target= "_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-souza-607776215/">
-</a>   
+</a>   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 
+<!--
+<details>
+  <summary> Minhas conquistas </summary>
+   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord"/>     Negócio dos trofeus
 
-
-
+</details>
+-->
 
 ### Tecnologias, linguagens e frameworks que tenho conhecimento👩‍💻
 ![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,19 +54,23 @@ Estou utilizando o GitHub com o intuito de salvar os códigos dos meus programas
  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
  <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-### Tecnologias, linguagens e frameworks que estou estudando👩‍💻
+ 
+ 
+ ### Tecnologias, linguagens e frameworks que estou estudando👩‍💻
  ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red"/>
     <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img alt="PostgreeSQL" src ="https://img.shields.io/badge/PostgreeSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    
+   
     
 ### Minhas informações aqui no GitHub:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLM1&theme=tokyonight&show_icons=true)
 
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLM1&theme=tokyonight&layout=compact)](https://github.com/LucasLM1/github-readme-stats)
+
+ 
 <p align="center">
  Quantidade de visitas no meu perfil desde: 01/07/2021 🕵 <br></p>
 <p align="center"> 
@@ -70,9 +78,8 @@ Estou utilizando o GitHub com o intuito de salvar os códigos dos meus programas
 <p align="center">
 Obrigado e volte sempre! 😄
 </p>
-
-
+  
 <!-- ![Snake animation](https://github.com/LucasLM1/LucasLM1/blob/output/github-contribution-grid-snake.svg) -->
 
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<img src="https://github.com/bigboss2021/Turma27-MySQL/blob/main/teste/jbuffum_0871_gameboy_final.0.gif" alt="Joguim Valmir" width="900">
