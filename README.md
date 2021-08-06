@@ -66,11 +66,13 @@ Estou utilizando o GitHub com o intuito de salvar os códigos dos meus programas
    
     
 ### Minhas informações aqui no GitHub:
-
+<p align = "center">
 <a href="https://github.com/LucasLM1">
   <img height="162px" src="https://github-readme-stats.vercel.app/api?username=LucasLM1&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,800000,FF4500,FF8C00" /></a>  <!-- do primeiro para o ultimo -->
 <a href="https://github.com/LucasLM1/">
   <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLM1&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,FF8C00,FF4500,800000" /></a>                   <!-- do ultimo para o primeiro -->
+
+</p>
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLM1&theme=tokyonight&show_icons=true)
