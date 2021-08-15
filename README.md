@@ -54,23 +54,27 @@ Estou utilizando o GitHub com o intuito de salvar os códigos dos meus programas
  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
  <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+ <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red"/>
+ <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+ <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
  
  
  ### Tecnologias, linguagens e frameworks que estou estudando👩‍💻
  ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red"/>
-    <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img alt="PostgreeSQL" src ="https://img.shields.io/badge/PostgreeSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+ <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+ <img alt="PostgreeSQL" src ="https://img.shields.io/badge/PostgreeSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+ <img alt ="NodeJS" src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+ <img alt ="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+ <img alt ="JQuery" src ="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
    
     
 ### Minhas informações aqui no GitHub:
 <p align = "center">
 <a href="https://github.com/LucasLM1">
-  <img height="162px" src="https://github-readme-stats.vercel.app/api?username=LucasLM1&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,800000,FF4500,FF8C00" /></a>  <!-- do primeiro para o ultimo -->
+  <img height="162px" src="https://github-readme-stats.vercel.app/api?username=LucasLM1&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,4169E1,C71585,00008B" /></a>  <!-- do primeiro para o ultimo -->
 <a href="https://github.com/LucasLM1/">
-  <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLM1&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,FF8C00,FF4500,800000" /></a>                   <!-- do ultimo para o primeiro -->
+  <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLM1&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,00008B,C71585,4169E1" /></a>                   <!-- do ultimo para o primeiro -->
 
 </p>
 
