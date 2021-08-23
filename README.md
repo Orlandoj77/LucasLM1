@@ -28,6 +28,7 @@ Estou utilizando o GitHub com o intuito de salvar os códigos dos meus programas
 • 📍 São Paulo- SP
 
 ### Entre em contato comigo através das minhas redes sociais📲
+<div>
 <a href="https://www.instagram.com/lucxs.lm_" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lucxs.lm_">
 </a>
@@ -35,7 +36,8 @@ Estou utilizando o GitHub com o intuito de salvar os códigos dos meus programas
 <a href="https://www.linkedin.com/in/lucas-souza-607776215/" alt= "LinkedIN" target= "_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-souza-607776215/">
 </a>   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-
+</div>
+  
 <!--
 <details>
   <summary> Minhas conquistas </summary>
@@ -61,12 +63,14 @@ Estou utilizando o GitHub com o intuito de salvar os códigos dos meus programas
 
  
  ### Tecnologias, linguagens e frameworks que estou estudando👩‍💻
+ <div>
  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
  <img alt ="NodeJS" src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
- <img alt ="JQuery" src ="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img alt ="JQuery" src ="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
- <img alt="PostgreeSQL" src ="https://img.shields.io/badge/PostgreeSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+ <img alt="PostgreeSQL" src ="https://img.shields.io/badge/PostgreeSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/
+      </div>
       
 ### Minhas informações aqui no GitHub:
 <div align = "center">
